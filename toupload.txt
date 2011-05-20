@@ -1,0 +1,6 @@
+view profil
+cont profil
+model agent_model
+model amis
+view display
+cont display
